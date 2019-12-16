@@ -44,4 +44,4 @@ When hosting models using Amazon SageMaker hosting services, consider the follow
 
 ## How It Works: Next Topic<a name="how-it-works-hosting-next-topic"></a>
 
-[Validate a Machine Learning Model](how-it-works-model-validation.md)
+[Deploy a model using Batch Transform](how-it-works-batch.md)
